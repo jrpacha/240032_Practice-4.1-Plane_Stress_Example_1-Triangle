@@ -133,7 +133,7 @@ fprintf('%4d%16.4e%12.4e%12.4e\n',tableStrain')
 %Stress:
 tableStress=[(1:numElem)',stress',vonMises]; 
 fprintf('\n%31s\n\n','Stress')
-fprintf('%5s%12s%12s%12s%15s\n','Elem.','SX','SY','SX','vonMisses')
+fprintf('%5s%12s%12s%12s%15s\n','Elem.','SX','SY','SX','Von Mises')
 fprintf('%4d%16.4e%12.4e%12.4e%12.4e\n',tableStress')
 
 %Graphical output: displacements
