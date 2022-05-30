@@ -15,4 +15,4 @@ juan.ramon.pacha@upc.edu
 
 Many thanks,
 
-Juan Ramón
+J.R.
